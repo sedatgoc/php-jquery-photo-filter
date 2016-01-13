@@ -1,0 +1,24 @@
+Documentation
+What is photoFilter?
+	Photofilter (a.k.a. pFilter) is  add filters to the image.
+How does it work?
+	Photofilter use GD library. GD library fast work. 
+Steps:
+•	User select an image from only image folder. 
+•	User crop this image.
+•	User select filter from filter list.
+•	User save new filtered image.
+Config File : 
+	Not tested real hosting. Config file contains:
+•	Photofilter path
+•	Photofilter image path (uploaded image by users)
+•	Photofilter image cache or image hash path
+•	Photofilter cropped image path
+•	Photofilter save image path
+
+
+
+
+
+
+
